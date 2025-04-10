@@ -7,7 +7,6 @@ venv/
 
 # Ignore solution
 Code/solution
-Code/Ex10_Data_Visualization.ipynb
 
 # Ignore Python cache files inside mid-term/
 mid-term/__pycache__/
